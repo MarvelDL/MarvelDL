@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarvelDL
+- 👋 Hi, I’m Marvel
 - 👀 I’m interested in Machine Learning (specifically Deep Learning) 
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any ML projects available
